@@ -1,0 +1,14 @@
+#psiaki-table {
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+#psiaki-table th {
+    background-color: #a5a9ff;
+
+}
+
+tr:nth-child(even) {background:yellow}
+tr:nth-child(odd) {background: red}
+
